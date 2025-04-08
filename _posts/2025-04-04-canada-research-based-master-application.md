@@ -7,7 +7,9 @@ tags:
   - experience
 ---
 
-[Welcom visit zhihu for orginial blog](https://zhuanlan.zhihu.com/p/1891580754850447998) :wink:
+分享了我在 2025 fall 申请加拿大 :canada: 研究型硕士的经验
+
+[Welcom to visit zhihu for orginial blog](https://zhuanlan.zhihu.com/p/1891580754850447998) :wink:
 
 *声明：本人CS专业，陆本、无connection、无publication，全程DIY。以下内容仅基于个人经验，不同专业和背景的申请者可能会有不同的经历和见解，如有不适用之处，还请见谅。*
 
