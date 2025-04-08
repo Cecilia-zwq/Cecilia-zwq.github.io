@@ -32,13 +32,13 @@ Research Experience
 
 Project Experience
 ======
-**AI-Based Job Search Assistant,** 2024.3 - 2024.6
+**[AI-Based Job Search Assistant](https://github.com/Cecilia-zwq/Career-Assistant),** 2024.3 - 2024.6
 - Developed an intelligent job search platform powered by large language models (LLMs) that delivers personalized job information and interview preparation. 
 - Managed the cleaning and preprocessing of web-scraped data, employing NLP tools to create a comprehensive job information knowledge base. 
 - Designed and implemented a front-end interface to enhance the overall user experience.
 
 **Home Credit - Credit Risk Model Stability,** 2024.2 - 2024.5
-*Kaggle Competition, Silver Medal*
+*Kaggle Competition, Silver Medal*:2nd_place_medal:
 - Achieved 92nd place out of 3,856 competing teams, demonstrating proficiency in applying advanced data analysis techniques to real-world challenges. 
 - Employed machine learning models to assess credit risk by predicting loan default probabilities. 
 - Led data processing and feature engineering, training a ensemble model comprising LightGBM, XGBoost, CatBoost, and a fully connected neural network.
