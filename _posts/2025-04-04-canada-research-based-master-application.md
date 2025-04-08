@@ -5,6 +5,7 @@ permalink: /posts/2025/04/canada-research-based-master-application/
 tags:
   - graduate application
   - experience
+read_time: 15
 ---
 
 分享了我在 2025 fall 申请加拿大 :canada: 研究型硕士的经验
