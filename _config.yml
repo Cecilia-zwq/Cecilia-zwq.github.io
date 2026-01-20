@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenqing Zhang"
+title                    : "Wenqing (Cecilia) Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Wenqing Zhang"
   pronouns         : "she/her" 
-  bio              : "CS student @ Shandong University. Joining Wenster University in Fall 2025"
-  location         : "Jinan, Shandong"
-  employer         : "Shandong University"
+  bio              : "MSc student @ Wenster University"
+  location         : "London, ON, CA"
+  employer         : "Wenster University"
   uri              : "https://cecilia-zwq.github.io/"
   email            : "wenqingzhang1122@gamil.com" 
 
