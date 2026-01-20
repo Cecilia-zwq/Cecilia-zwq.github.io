@@ -11,4 +11,6 @@ I am a thesis-based master's student in the Human-Centered Computing Group at We
 
 You can find bolgs and CV on this website. Hope you can like them :relaxed:
 
-<img src="../images/life1.jpeg" width="50%">
+<div align="center">
+  <img src="../images/life1.jpeg" width="50%">
+</div>
