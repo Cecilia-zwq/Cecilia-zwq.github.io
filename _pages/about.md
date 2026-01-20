@@ -11,4 +11,4 @@ I am a thesis-based master's student in the Human-Centered Computing Group at We
 
 You can find bolgs and CV on this website. Hope you can like them :relaxed:
 
-![MyLife](../images/life1.jpeg)
+![MyLife](../images/life1.jpeg =x300)
