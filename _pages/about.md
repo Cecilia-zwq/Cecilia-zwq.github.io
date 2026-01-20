@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Someone who is passionate about using technology to promote social good"
+title: "Exploring Human-Centered AI for Social Good"
 author_profile: true
 redirect_from:
   - /about/
